@@ -1,0 +1,39 @@
+{
+  "checked_at_utc": "2026-09-09T11:05:04.107595+00:00",
+  "submission_hashes": "all match",
+  "starter_upstream_commit": "fb649d39e8637e552dbe56a096ece1f34b092d36",
+  "starter_file_count": 25,
+  "starter_git_blobs": "all 25 match official upstream",
+  "assembly_changes": [
+    "src/cuda.cu",
+    "src/openmp.c"
+  ],
+  "assembled_student_sources": "byte-identical to submitted files",
+  "quoted_include_count": 33,
+  "quoted_includes": "all resolve within original project/include paths",
+  "vs_project_file_references_checked": 16,
+  "make_release_dry_run": "passed; all eight source units resolve",
+  "native_serial_reference_build": "Apple clang C11 compilation succeeded",
+  "glider_mask_check": {
+    "check": "Complete 3x3 binary-window truth table against the compiled recovered serial reference",
+    "windows_checked": 512,
+    "unique_student_masks": 16,
+    "openmp_and_cuda_mask_tables_identical": true,
+    "mismatches": [],
+    "result": "pass",
+    "scope": "The original cpu.c was compiled with Apple clang; this verifies the shared mask table against the course serial reference. It does not execute OpenMP parallel regions or CUDA kernels."
+  },
+  "not_executed": [
+    "Visual Studio build",
+    "Full OpenMP compilation/execution",
+    "CUDA compilation/kernel execution",
+    "Historical 48-case benchmark reproduction"
+  ],
+  "environment": {
+    "os": "macOS",
+    "architecture": "Apple ARM",
+    "nvcc_available": false,
+    "openmp_development_runtime_available": false
+  },
+  "historical_results_status": "All performance measurements and 48-case validation results remain attributed to the submitted report."
+}
