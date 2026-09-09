@@ -1,0 +1,194 @@
+{
+  "course": "COM6521",
+  "crosslisted_codes": [
+    "COM4521"
+  ],
+  "source": "Blackboard Assignment > View instructions > Starting Code and assignment brief",
+  "blackboard_course_id": "_123503_1",
+  "assessment_id": "_8990077_1",
+  "assessment_url": "https://vle.shef.ac.uk/ultra/courses/_123503_1/assessment/_8990077_1/overview",
+  "download_method": "Authenticated Blackboard UI download by coordinating agent; no submission was edited",
+  "version_note": "Version 7 starter archive and version 2 brief offered by the assignment page when recovered. This does not establish which starter version was used for the original student submission.",
+  "files": [
+    {
+      "name": "com4521com6521_assignment2526_startingcode_v7.zip",
+      "bytes": 119016,
+      "sha256": "4c724f2ed2e9098b9f8c267fc2b7b52ee2ee232a80e09941ad90aa8132c6440f"
+    },
+    {
+      "name": "com4521com6521_assignment2526_v2.pdf",
+      "bytes": 2907957,
+      "sha256": "6baa39de2da0d276f8cbfc2f9f1f20b096084258a14ecdd92b563448f725e0d6"
+    }
+  ],
+  "starter_members": [
+    {
+      "path": "COMCUDA_assignment_fe221142-master/.gitignore",
+      "bytes": 2555,
+      "sha256": "600babce74c5db673d05b8b2af4573c359f0bd10a1d95734d7c55cf1a1301be0"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/Makefile",
+      "bytes": 4478,
+      "sha256": "7d7e4853a1018426c368d006c0e8e594c1749b909bba5b978994415c68f8c659"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/README.md",
+      "bytes": 191,
+      "sha256": "452bcf9c330d52f63dc01938b13dd7d9c58c23185364534bb1096c6cc10b78f3"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/assignment.sln",
+      "bytes": 1052,
+      "sha256": "3b554f5acb9ff7a3ef6ae5109260fe8a715f6c9f607a65698387a4f73d1b2768"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/assignment.vcxproj",
+      "bytes": 6226,
+      "sha256": "255201074135ecae41ce747a0906e1e70f49550a6e0d4c5ad2e4574aa2e052bb"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/assignment.vcxproj.filters",
+      "bytes": 2173,
+      "sha256": "461ac5a42b7fdc7f96c4ee2fea3df94275e60c67a8fb550071319f92bd8c81a4"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/cg_16_in.png",
+      "bytes": 726,
+      "sha256": "052297f4a7614f1a83fee87f13b6e7dad6dc2fbaa7fe9c4fa088c42b7a4d76f5"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/cudamemchk.bat",
+      "bytes": 535,
+      "sha256": "3b709453019086e1804ccf267499cef70fa7577ef7a54d0055196754e755b055"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/external/stb_image.h",
+      "bytes": 283010,
+      "sha256": "594c2fe35d49488b4382dbfaec8f98366defca819d916ac95becf3e75f4200b3"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/external/stb_image_write.h",
+      "bytes": 69580,
+      "sha256": "9d748e892e9334a95f0830e93e5a248860280b2ac345ad401629fceda1f9af71"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/internal/common.c",
+      "bytes": 5398,
+      "sha256": "8b86fe9abad6f36fa8c85191514fac3647e307811a90e7f4d15d0625a3097ebc"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/internal/common.h",
+      "bytes": 1818,
+      "sha256": "4ce179efe2733d6ed1b59829fa62e578bd6e285cc7758d289d86f9e9193fd06e"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/internal/config.h",
+      "bytes": 514,
+      "sha256": "9b4c77926cc33bc06c0f477362dca94eb111e923225fb0d6fedfb5358e024a1f"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/internal/main.cu",
+      "bytes": 6628,
+      "sha256": "63f6148d877c272ba79b5e0715958faad527b28ca1acb14ee8fbb202ca1cbcd5"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/internal/main.h",
+      "bytes": 1064,
+      "sha256": "cb0a15b1fc2784bbca37d417633743b4b791637f015856b3713a793105dee2a6"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/internal/mainCountGliders.cu",
+      "bytes": 6739,
+      "sha256": "f99976cbdae1171e15cfcaa751f8df844572303f11ddedeb56138daf8a162170"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/internal/mainEmboss.cu",
+      "bytes": 8382,
+      "sha256": "9369963e8ff412ed074b892b1e2374a07e9d9c92455b7c60e63d1a9e002bc9cc"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/internal/mainHistogram.cu",
+      "bytes": 12784,
+      "sha256": "ed614364364ff25706e0526e290e52be8513bc4de1a66100b4e533b3d77464e5"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/nsys.bat",
+      "bytes": 834,
+      "sha256": "9f8585b5ac00d989ce8352f7640e104fb7a832e0816e17352c375ac90cd0d9cf"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/src/cpu.c",
+      "bytes": 5984,
+      "sha256": "045ce2c88d12e4b8083b8e2ae12619cce7c620f7c74247cf9802b9a5be75e907"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/src/cpu.h",
+      "bytes": 1607,
+      "sha256": "d67d20e5eeff792363dab1d52aea609d96db3b2b7366825036383a23b0653e9c"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/src/cuda.cu",
+      "bytes": 387,
+      "sha256": "104ea7276e3f18270486fc05f0f4021ba8f8bd7dc5088b4d41459906902652c0"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/src/cuda.cuh",
+      "bytes": 2613,
+      "sha256": "21940e3be5562785f25da6e4e72776b847d85e434dec11cbb2ad868e9d01f8f2"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/src/openmp.c",
+      "bytes": 410,
+      "sha256": "7c3739939d8dff79a39d4c72ec41719f9c40b3b6f9aa0ce4fe0aea290fe21e2f"
+    },
+    {
+      "path": "COMCUDA_assignment_fe221142-master/src/openmp.h",
+      "bytes": 1612,
+      "sha256": "6e300a519abb24f28e912f25d20ab6284a79b68711c8a76554cea153e1fec2e6"
+    }
+  ],
+  "archived_at_utc": "2026-09-09T10:59:54.307278+00:00",
+  "upstream_verification": {
+    "upstream_repo": "RSE-Sheffield/COMCUDA_assignment_fe221142",
+    "upstream_url": "https://github.com/RSE-Sheffield/COMCUDA_assignment_fe221142",
+    "upstream_commit": "fb649d39e8637e552dbe56a096ece1f34b092d36",
+    "upstream_commit_url": "https://github.com/RSE-Sheffield/COMCUDA_assignment_fe221142/commit/fb649d39e8637e552dbe56a096ece1f34b092d36",
+    "upstream_commit_time": "2026-04-29T13:48:55Z",
+    "zip_comment": "fb649d39e8637e552dbe56a096ece1f34b092d36",
+    "local_files": 25,
+    "upstream_files": 25,
+    "all_git_blobs_match": true,
+    "only_local": [],
+    "only_remote": [],
+    "different": [],
+    "upstream_license_api": null,
+    "top_level_license_file_present": false,
+    "third_party_license_note": "Both bundled stb headers retain their original dual MIT/public-domain notices.",
+    "upstream_commit_message": "Add NSight Systems .bat for calling it on command line",
+    "latest_master_comparison": {
+      "commit": "c62a0e2932d9d5ca5f28977b751488c54db97eff",
+      "commit_time": "2026-05-15T11:00:47Z",
+      "all_git_blobs_match": false,
+      "different": [
+        "nsys.bat"
+      ]
+    }
+  },
+  "assembled_project": "project/",
+  "assembly_changes": [
+    {
+      "path": "src/openmp.c",
+      "action": "Replace starter placeholder with byte-identical submitted file",
+      "submitted_source": "submitted/openmp.c",
+      "sha256": "12c89a97bfd539b32232a932a5b9919e2ebafb6251fad2ae7fabf7a3ff181463"
+    },
+    {
+      "path": "src/cuda.cu",
+      "action": "Replace starter placeholder with byte-identical submitted file",
+      "submitted_source": "submitted/cuda.cu",
+      "sha256": "3cbe34ad7821d3304cc6eab703b5c3cb27e5f23287cb704d4092e6011852c1f5"
+    }
+  ],
+  "history_note": "The course framework is recovered from a ZIP snapshot. Its upstream Git history has not been imported or reconstructed."
+}
