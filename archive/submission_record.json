@@ -1,0 +1,68 @@
+{
+  "course": "COM6521",
+  "crosslisted_codes": [
+    "COM4521"
+  ],
+  "blackboard_course_id": "_123503_1",
+  "assessment": "Assignment",
+  "assessment_id": "_8990077_1",
+  "attempt_id": "_12725642_1",
+  "attempt": 1,
+  "submitted_at_display": "21/05/2026 23:55 (UTC+8)",
+  "submission_state": "submitted",
+  "downloaded_file": "COMCUDA_submission_draft_20260521_165303.zip",
+  "bytes": 345601,
+  "sha256": "0418e8017da1765da1d519c4ab111fa3ed14c805203e2122dcfa42f43106350b",
+  "downloaded_via": "Blackboard submitted-attempt attachment download",
+  "attachment_count_observed": 1,
+  "filename_note": "The original filename contains draft, but this file was downloaded from the officially submitted Attempt 1. The filename is preserved unchanged and is not treated as evidence of an unsubmitted draft.",
+  "archived_at_utc": "2026-09-09T10:47:46.084986+00:00",
+  "assessment_url": "https://vle.shef.ac.uk/ultra/courses/_123503_1/assessment/_8990077_1/overview",
+  "repository_archive_path": "archive/COMCUDA_submission_draft_20260521_165303.zip",
+  "extracted_files": [
+    {
+      "path": "comcuda_report.pdf",
+      "bytes": 403940,
+      "sha256": "59f7686e43966d78ce0ba710b0f64343efa08e2f7d9cdebcb68b995106de3396",
+      "zip_modified_time": [
+        2026,
+        5,
+        21,
+        16,
+        52,
+        52
+      ],
+      "repository_path": "submitted/comcuda_report.pdf"
+    },
+    {
+      "path": "cuda.cu",
+      "bytes": 8978,
+      "sha256": "3cbe34ad7821d3304cc6eab703b5c3cb27e5f23287cb704d4092e6011852c1f5",
+      "zip_modified_time": [
+        2026,
+        5,
+        21,
+        14,
+        17,
+        46
+      ],
+      "repository_path": "submitted/cuda.cu"
+    },
+    {
+      "path": "openmp.c",
+      "bytes": 5406,
+      "sha256": "12c89a97bfd539b32232a932a5b9919e2ebafb6251fad2ae7fabf7a3ff181463",
+      "zip_modified_time": [
+        2026,
+        5,
+        21,
+        14,
+        43,
+        38
+      ],
+      "repository_path": "submitted/openmp.c"
+    }
+  ],
+  "preservation": "The ZIP and all three extracted files are preserved byte for byte. ZIP member times are original archive metadata, not Git commit dates.",
+  "source_code_status": "The submitted ZIP contains cuda.cu, openmp.c and comcuda_report.pdf. It does not contain the course starter headers, CPU reference, build project, benchmark harness or input assets. The report states that the student implementation changes were confined to these two source files."
+}
