@@ -14,7 +14,7 @@ The recovered [project/](../project/) changes only the two implementation files 
 
 At recovery, upstream `master` pointed to `c62a0e2932d9d5ca5f28977b751488c54db97eff`, which differs from the official v7 ZIP only in `nsys.bat`. The preserved tree uses the downloaded v7 snapshot, not a silently substituted newer script.
 
-No top-level license file was found in the recovered framework, and GitHub returned no repository license. This archive remains private and does not add a license on behalf of the course authors. Both bundled `stb_image.h` and `stb_image_write.h` retain their original MIT/public-domain alternatives and attribution.
+No top-level license file was found in the recovered framework, and GitHub returned no repository license. The owner has authorized publication of this coursework archive. It does not add a license on behalf of the course authors; earlier private-publication records remain a dated record of recovery. Both bundled `stb_image.h` and `stb_image_write.h` retain their original MIT/public-domain alternatives and attribution.
 
 ## Brief and source consistency
 

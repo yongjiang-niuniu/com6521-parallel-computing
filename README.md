@@ -93,4 +93,4 @@ The 512-window check does not execute OpenMP regions or CUDA kernels. No NVIDIA 
 
 Yongjiang Liu's student deliverables are `openmp.c`, `cuda.cu` and the report. The reference implementation, harness and build framework are supplied course material. The assembled tree preserves that boundary, and the original report's workflow and AI-assistance statement remain intact.
 
-The official starter snapshot matches upstream commit `fb649d39e8637e552dbe56a096ece1f34b092d36`. Source archives, hashes and retained third-party notices are documented in [attribution](docs/ATTRIBUTION.md) and [framework provenance](archive/framework_provenance.json). This private repository preserves the recovered work without reconstructing an invented development history.
+The official starter snapshot matches upstream commit `fb649d39e8637e552dbe56a096ece1f34b092d36`. Source archives, hashes and retained third-party notices are documented in [attribution](docs/ATTRIBUTION.md) and [framework provenance](archive/framework_provenance.json). This repository preserves the recovered work without reconstructing an invented development history.
